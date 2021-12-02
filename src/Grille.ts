@@ -1,3 +1,5 @@
+// Dior sauvage
+
 export interface IGrilleConfig {
     readonly canvas: HTMLCanvasElement
     readonly data: Array<Array<number>>
